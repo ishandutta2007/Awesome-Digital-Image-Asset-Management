@@ -1,31 +1,71 @@
-# Awesome-Digital-Image-Asset-Management
+<div align="center">
 
-## Top Digital Image & Asset Management Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Digital Image &amp; Asset Management Banner" width="100%">
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Digital Asset Management (DAM), Photo Libraries & Media Optimization*  
-**Last updated: March 2026**
+# 📸 Awesome Digital Image & Asset Management 🗂️
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Digital Image & Asset Management**. These tools help organizations and individuals store, organize, search, transform, and distribute visual media—covering enterprise DAM platforms for brand teams, photo libraries for personal archives, and media optimization engines for developers.
+<p align="center">
+  <strong>Curated Directory of Top Enterprise DAM Platforms, Self-Hosted Photo Libraries &amp; Real-Time Image Transformation Pipelines</strong>
+</p>
 
-**Examples** include Google Photos, Cloudinary, Bynder, Brandfolder, Canto, SmugMug, Immich, PhotoPrism, and Ente.
+<p align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Image-Asset-Management?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Image-Asset-Management?style=social" alt="GitHub Forks" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Image-Asset-Management?color=green" alt="Issues" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Open-source emphasis**: This section highlights active projects for self-hosted DAM, open-source photo management, and community-driven media infrastructure—ideal for organizations seeking data sovereignty and predictable costs over per-asset or per-transformation SaaS billing. The open-source landscape spans **enterprise-grade DAM & PIM** (UnoPim, Pimcore, ResourceSpace, Phrasea) for governed brand and product asset management, **photo-centric platforms** (Immich, PhotoPrism, Ente, Photoview, LibrePhotos) for media libraries, and **media transformation backends** (imgproxy, Openinary, StreamKit).
+<p align="center">
+  <a href="#-sector-overview--market-dynamics">Sector Overview</a> •
+  <a href="#-saashosted-platforms">SaaS &amp; Hosted DAM</a> •
+  <a href="#-open-source-github-projects">Open-Source DAM &amp; Photo Libraries</a> •
+  <a href="#-feature-matrix--selection-guide">Selection Guide</a> •
+  <a href="#-how-to-contribute">Contributing</a> •
+  <a href="#-star-history">Star History</a> •
+  <a href="#-support--sponsorship">Support</a>
+</p>
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+</div>
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## Sector Overview & Market Dynamics
+## 📖 Introduction & Ecosystem Scope
 
-The global Digital Asset Management (DAM) market is estimated at **$5.4B to $6.4B in 2025–2026** and projected to surpass **$10B+ by 2030** (growing at ~15–18% CAGR), propelled by explosive visual content volume, omnichannel commerce, and automated generative AI tagging workflows. The industry exhibits **moderate-to-high fragmentation overall**—with hundreds of specialized and self-hosted tools catering to niche vertical workflows, alongside a **highly concentrated upper tier** dominated by cloud enterprise heavyweights (e.g., Adobe, Bynder, OpenText, Smartsheet/Brandfolder, Cloudinary) competing for unified global brand infrastructure.
+Welcome to the definitive **Digital Image & Asset Management (DAM)** ecosystem resource. Whether you are an enterprise brand team looking for governed media distribution, a developer building an on-the-fly image and video transformation microservice, or a self-hoster seeking a private, end-to-end encrypted alternative to Google Photos or Apple Photos, this curated list categorizes the highest quality solutions available across proprietary SaaS and open-source software.
 
-## SaaS/Hosted Platforms
+### 🎯 Key Focus Areas
+- **🏢 Enterprise Digital Asset Management (DAM):** Brand portals, metadata governance, DRM rights management, versioning, and approval workflows.
+- **🖼️ Self-Hosted Photo Libraries:** Personal and team media storage with AI face clustering, semantic CLIP search, map geocoding, and background mobile camera upload.
+- **⚡ Developer Media Engines:** Real-time on-the-fly URL image transformations, WebP/AVIF auto-conversions, adaptive bitrate HLS video transcoding, and edge CDN integration.
+- **🔐 Privacy & Data Sovereignty:** End-to-end encrypted (E2EE) photo backups and zero-telemetry self-hosted alternatives.
+
+---
+
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🔍 Feature Matrix & Selection Guide](#-feature-matrix--selection-guide)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global Digital Asset Management (DAM) market is estimated at **$5.4B to $6.4B in 2025–2026** and projected to surpass **$10B+ by 2030** (growing at a compound annual growth rate of ~15–18% CAGR), propelled by explosive visual content volume, omnichannel e-commerce, and generative AI automated tagging pipelines. The industry exhibits **moderate-to-high fragmentation overall**—with hundreds of specialized and self-hosted tools catering to niche vertical workflows, alongside a **highly concentrated upper tier** dominated by cloud enterprise heavyweights (e.g., Adobe, Alphabet/Google, Bynder, OpenText, Smartsheet/Brandfolder, Cloudinary) competing for unified global brand infrastructure.
+
+---
+
+## ☁️ SaaS/Hosted Platforms
+
+The following hosted solutions provide turnkey infrastructure, global CDNs, enterprise security compliance (SOC 2, ISO 27001), and managed scalability:
 
 | Product | Valuation / Revenue | Starting Pricing | Free Tier / Trial Limits | Description |
 |---|---|---|---|---|
@@ -36,7 +76,11 @@ The global Digital Asset Management (DAM) market is estimated at **$5.4B to $6.4
 | **[SmugMug](https://www.smugmug.com/)** | **~$57M–$70M Est. Revenue** (Private; parent of Flickr) | $11 / month billed annually (or $13 / month billed monthly for Basic plan) | **14-day free trial** with full Pro access; uploaded galleries remain private and customer-sharing/storefront capabilities are locked until upgraded | Photography platform with unlimited high-resolution photo/video storage, portfolio building, client proofing, and integrated print fulfillment. |
 | **[Canto](https://www.canto.com/)** | **~$30M–$52M Est. Revenue** (Private; growth investment by JMI Equity) | ~$2,080 / month (typically billed as ~$25,000 / year enterprise baseline contract) | **7-day free trial** upon sales request; no permanent free tier | Mid-market and enterprise DAM providing visual search, curated brand portals, collaborative review workflows, and DRM approval management. |
 
-## Open-Source GitHub Projects
+---
+
+## 💻 Open-Source GitHub Projects
+
+Curated list of production-grade self-hosted repositories, sorted in descending order by GitHub popularity:
 
 | Project | Star Badge | Description |
 |---|---|---|
@@ -61,22 +105,48 @@ The global Digital Asset Management (DAM) market is estimated at **$5.4B to $6.4
 | **[Phrasea](https://github.com/alchemy-fr/phrasea)** | [![Stars](https://img.shields.io/github/stars/alchemy-fr/phrasea?style=social&color=white)](https://github.com/alchemy-fr/phrasea/stargazers) | **Production-proven DAM platform powered by Elasticsearch.** Features advanced faceted filtering, multilingual indexing, automated renditions, granular permission hierarchies, and API connectors for communication and publishing teams (MIT). |
 | **[StreamKit](https://github.com/Sanskaragrawal2107/streamkit)** | [![Stars](https://img.shields.io/github/stars/Sanskaragrawal2107/streamkit?style=social&color=white)](https://github.com/Sanskaragrawal2107/streamkit/stargazers) | **Self-hosted media transformation and streaming engine.** Offers real-time URL image adjustments, adaptive bitrate HLS video generation, compatibility with ImageKit/Cloudinary URL syntax, multi-cloud storage backends, and FastMCP integration (MIT). |
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format and table conventions).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🔍 Feature Matrix & Selection Guide
 
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Image and asset management platforms handle potentially sensitive media and metadata; enforce role-based access, audit logging, and compliance with applicable data protection regulations.
-- Pricing and plan limits reflect vendor documentation and procurement data as of 2025–2026 and are subject to change by respective providers.
+- **Choose [Immich](https://github.com/immich-app/immich)** if you need the most seamless self-hosted Google Photos replacement with polished iOS/Android automatic background camera sync and CLIP semantic search.
+- **Choose [PhotoPrism](https://github.com/photoprism/photoprism)** if you already have structured folder archives on a NAS, process RAW photography, and desire high-precision TensorFlow tagging without changing existing directory trees.
+- **Choose [Ente](https://github.com/ente-io/ente)** if absolute end-to-end encryption (E2EE) and privacy are your highest operational requirements.
+- **Choose [ResourceSpace](https://github.com/resourcespace/resourcespace)** or **[Phrasea](https://github.com/alchemy-fr/phrasea)** if you run a museum, charity, university, or brand requiring formal asset approval cycles, rights management, and catalog governance.
+- **Choose [imgproxy](https://github.com/imgproxy/imgproxy)**, **[Openinary](https://github.com/openinary/openinary)**, or **[StreamKit](https://github.com/Sanskaragrawal2107/streamkit)** if you need high-performance microservices for dynamic image sizing and delivery to replace Cloudinary or ImageKit.
 
 ---
 
-**Made for brand managers, photographers, developers, and organizations building media infrastructure.**  
-Let's make digital image and asset management more open, searchable, and cost-predictable.
+## 🤝 How to Contribute
+
+Contributions are welcome and appreciated! Help keep this directory updated and comprehensive:
+
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-dam`).
+3. 📝 Add or edit your entry in `README.md` maintaining table formatting, pricing details, and verified badge links.
+4. 🚀 Commit your improvements (`git commit -m "Add New DAM Platform"`).
+5. 📬 Open a **Pull Request** detailing why the tool should be added.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Digital-Image-Asset-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Digital-Image-Asset-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using this resource! If you find this curated directory useful for your team or personal projects, please consider:
+- ⭐ **Starring** the repository on GitHub to help others discover it.
+- 🍴 **Forking** and contributing new entries or updates.
+- 📢 **Sharing** with fellow developers, system administrators, and brand managers.
+- ☕ **Buying a coffee or sponsoring** ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚖️ Disclaimer
+
+- This is an independent **community-curated** list — not an official endorsement.
+- All brand names, product trademarks, logos, and registered trademarks belong to their respective owners.
+- Pricing, tier quotas, and feature availability reflect vendor information as of 2025–2026 and may be modified by respective providers.
