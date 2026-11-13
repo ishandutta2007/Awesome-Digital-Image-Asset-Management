@@ -1,6 +1,6 @@
 # Awesome-Digital-Image-Asset-Management
 
-# Top Digital Image & Asset Management Ecosystem
+## Top Digital Image & Asset Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Digital Asset Management (DAM), Photo Libraries & Media Optimization*  
