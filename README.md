@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Image-Asset-Management?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Image-Asset-Management?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Image-Asset-Management?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Image-Asset-Management?color=green" alt="Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Digital-Image-Asset-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
@@ -82,7 +82,7 @@ The following hosted solutions provide turnkey infrastructure, global CDNs, ente
 
 Curated list of production-grade self-hosted repositories, sorted in descending order by GitHub popularity:
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---|---|---|
 | **[Immich](https://github.com/immich-app/immich)** | [![Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers) | **High-performance self-hosted backup and gallery solution designed as a direct Google Photos alternative.** Features native iOS/Android auto-backup, CLIP semantic vector search, facial recognition, partner sharing, map views, reverse geocoding, multi-user permissions, and background hardware-accelerated video transcoding (AGPL-3.0). |
 | **[PhotoPrism](https://github.com/photoprism/photoprism)** | [![Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers) | **AI-powered photo categorization and indexing server.** Employs Google TensorFlow for automated object, location, and facial recognition, alongside deep RAW image parsing (DNG, CR2, NEF), non-destructive metadata editing, WebDAV sync, and duplicate detection without altering folder hierarchies (AGPL-3.0). |
